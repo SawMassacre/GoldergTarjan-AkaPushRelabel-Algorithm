@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Program Files/Uni/SecondYearFirstTerm/Algorithms/GoldbergTarjanAlgorithm/main.cpp" "C:/Program Files/Uni/SecondYearFirstTerm/Algorithms/GoldbergTarjanAlgorithm/cmake-build-debug/CMakeFiles/GoldbergTarjanAlgorithm.dir/main.cpp.obj"
+  "C:/Program Files/Uni/SecondYearFirstTerm/Algorithms/GoldbergTarjanAlgorithm/GoldergTarjan-AkaPushRelabel-Algorithm/main.cpp" "C:/Program Files/Uni/SecondYearFirstTerm/Algorithms/GoldbergTarjanAlgorithm/GoldergTarjan-AkaPushRelabel-Algorithm/cmake-build-debug/CMakeFiles/GoldbergTarjanAlgorithm.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

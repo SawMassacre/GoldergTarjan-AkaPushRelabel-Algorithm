@@ -43,10 +43,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E re
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm"
+CMAKE_SOURCE_DIR = "C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm\GoldergTarjan-AkaPushRelabel-Algorithm"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm\GoldergTarjan-AkaPushRelabel-Algorithm\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -73,14 +73,14 @@ clean: CMakeFiles/GoldbergTarjanAlgorithm.dir/clean
 CMakeFiles/GoldbergTarjanAlgorithm.dir/all:
 	$(MAKE) -f CMakeFiles\GoldbergTarjanAlgorithm.dir\build.make CMakeFiles/GoldbergTarjanAlgorithm.dir/depend
 	$(MAKE) -f CMakeFiles\GoldbergTarjanAlgorithm.dir\build.make CMakeFiles/GoldbergTarjanAlgorithm.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target GoldbergTarjanAlgorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm\GoldergTarjan-AkaPushRelabel-Algorithm\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target GoldbergTarjanAlgorithm"
 .PHONY : CMakeFiles/GoldbergTarjanAlgorithm.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/GoldbergTarjanAlgorithm.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm\GoldergTarjan-AkaPushRelabel-Algorithm\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/GoldbergTarjanAlgorithm.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Program Files\Uni\SecondYearFirstTerm\Algorithms\GoldbergTarjanAlgorithm\GoldergTarjan-AkaPushRelabel-Algorithm\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/GoldbergTarjanAlgorithm.dir/rule
 
 # Convenience name for target.
